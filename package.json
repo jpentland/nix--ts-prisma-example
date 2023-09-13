@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc",
     "start": "ts-node src/main.ts",
-    "migrate": "prisma migrate dev --preview-feature && prisma generate"
+    "migrate": "prisma migrate dev"
   },
   "keywords": [],
   "author": "",
