@@ -30,5 +30,5 @@ engines for nixos.
 ```bash
 npm install
 npm run migrate
-npx run start
+npm run start
 ```
