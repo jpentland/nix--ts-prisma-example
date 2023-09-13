@@ -1,0 +1,20 @@
+# Node related
+node_modules/
+*.log
+
+# TypeScript compiled output
+dist/
+*.js
+*.js.map
+*.d.ts
+
+# Prisma
+.prisma/migrations/
+
+# Environment variables and secrets
+.env
+
+# Editor related
+.vscode/
+*.iml
+.idea/
